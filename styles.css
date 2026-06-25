@@ -258,6 +258,9 @@ footer p {
 .accordion-body{
     padding: 10px 20px;
 }
+.accordion {
+    margin-bottom: 48px;
+}
 
 .accordion-body ul{
     margin: 0;
